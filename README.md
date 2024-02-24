@@ -25,6 +25,13 @@ With over a decade of experience in the hospitality sector, I have acquired exce
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kseniabusquet/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksenia.busquet@gmail.com)<br><br>
 
+💻 **Main Stack:**<br><br>
+![Clojure](https://img.shields.io/badge/clojure-%230077B6.svg?style=for-the-badge&logo=clojure&logoColor=white)
+![Cassandra](https://img.shields.io/badge/cassandra-%230077B6.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/kafka-%23181717.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23316192.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 💻 **Languages and Frameworks:**<br><br>
 ![Clojure](https://img.shields.io/badge/clojure-%230077B6.svg?style=for-the-badge&logo=clojure&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
