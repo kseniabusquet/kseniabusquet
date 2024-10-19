@@ -2,7 +2,7 @@
 
 [![ABOUT ME](https://img.shields.io/badge/About%20-Me-blue)](https://fullcycle.com.br/)
 
-I am a Junior Full-Stack Web Developer at [CSD BR](https://csdbr/), and I am passionate about continuously expanding my knowledge and skills in the tech industry. My journey in tech began when I completed a full-stack web development Bootcamp at [Ironhack](https://ironhack.com/) in September 2022, where I gained expertise in a range of technologies, including HTML, CSS, JavaScript, React, Express.js, Node.js, MongoDB, Axios, Git, and GitHub.
+I am Full-Stack Web Developer at [CSD BR](https://csdbr/), and I am passionate about continuously expanding my knowledge and skills in the tech industry. My journey in tech began when I completed a full-stack web development Bootcamp at [Ironhack](https://ironhack.com/) in September 2022, where I gained expertise in a range of technologies, including HTML, CSS, JavaScript, React, Express.js, Node.js, MongoDB, Axios, Git, and GitHub.
 
 I mostly work with Clojure, ClojureScript, Kafka, and Cassandra, and I am eager to explore other technologies to further broaden my horizons.
 
