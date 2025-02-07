@@ -6,7 +6,7 @@ I am a Full-Stack Web Developer at [CSD BR](https://csdbr/), and I am passionate
 
 I mostly work with Clojure, ClojureScript, Kafka, and Cassandra, and I am eager to explore other technologies to further broaden my horizons.
 
-As a junior full-stack software developer, I now collaborate with cross-functional teams to design software solutions using a range of technologies, including Clojure, Python, Vue.js, PostgreSQL, and Cassandra. I develop, test, and deploy software applications using Docker and Apache Kafka messaging systems to ensure efficient and secure financial transactions. I also utilize Agile methodologies and the Scrum framework to deliver software solutions on time while maintaining high quality standards. Additionally, I design and develop database structures using PostgreSQL and Cassandra, and I collaborate with team members to identify and resolve technical issues and bugs in a timely manner to minimize customer and organizational impact.
+As a full-stack software developer, I now collaborate with cross-functional teams to design software solutions using a range of technologies, including Clojure, Python, Vue.js, PostgreSQL, and Cassandra. I develop, test, and deploy software applications using Docker and Apache Kafka messaging systems to ensure efficient and secure financial transactions. I also utilize Agile methodologies and the Scrum framework to deliver software solutions on time while maintaining high quality standards. Additionally, I design and develop database structures using PostgreSQL and Cassandra, and I collaborate with team members to identify and resolve technical issues and bugs in a timely manner to minimize customer and organizational impact.
 
 <br>
 
