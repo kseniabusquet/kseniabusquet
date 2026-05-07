@@ -2,21 +2,13 @@
 
 [![ABOUT ME](https://img.shields.io/badge/About%20-Me-blue)](https://fullcycle.com.br/)
 
-I am a Full-Stack Web Developer at [CSD BR](https://csdbr/), and I am passionate about continuously expanding my knowledge and skills in the tech industry. My journey in tech began when I completed a full-stack web development Bootcamp at [Ironhack](https://ironhack.com/) in September 2022, where I gained expertise in a range of technologies, including HTML, CSS, JavaScript, React, Express.js, Node.js, MongoDB, Axios, Git, and GitHub.
+I am a Full-Stack Software Engineer at [Gateless, Inc.]([https://csdbr/](https://gateless.com/)), and I am passionate about continuously expanding my knowledge and skills in the tech industry. My journey in tech began when I completed a full-stack web development Bootcamp at [Ironhack](https://ironhack.com/) in September 2022, where I gained expertise in a range of technologies, including HTML, CSS, JavaScript, React, Express.js, Node.js, MongoDB, Axios, Git, and GitHub.
 
-I mostly work with Clojure, ClojureScript, Kafka, and Cassandra, and I am eager to explore other technologies to further broaden my horizons.
+I mostly work with Clojure, Clara Rules, Javascript, Svelte and AWS infrastructure, and I am eager to explore other technologies to further broaden my horizons.
 
 As a full-stack software developer, I now collaborate with cross-functional teams to design software solutions using a range of technologies, including Clojure, Python, Vue.js, PostgreSQL, and Cassandra. I develop, test, and deploy software applications using Docker and Apache Kafka messaging systems to ensure efficient and secure financial transactions. I also utilize Agile methodologies and the Scrum framework to deliver software solutions on time while maintaining high quality standards. Additionally, I design and develop database structures using PostgreSQL and Cassandra, and I collaborate with team members to identify and resolve technical issues and bugs in a timely manner to minimize customer and organizational impact.
 
-<br>
-
-[![MBA FULL CYCLE](https://img.shields.io/badge/MBA%20-Full%20Cycle%20Architecture-blue)](https://fullcycle.com.br/)
-
-Also, at the moment I am enrolled in the [MBA in Full Cycle Architecture](https://fullcycle.com.br/), where in the end of the programm I anm expecting to bring my knowledge about the software and solutions architecture to a whole new level.
-
-<br>
-
-[![MY PREVIOUS EXPERIENCE](https://img.shields.io/badge/Previous%20-Experience-blue)](https://fullcycle.com.br/)
+[![MY PREVIOUS EXPERIENCE](https://img.shields.io/badge/Previous%20-Experience-blue)]
 
 With over a decade of experience in the hospitality sector, I have acquired exceptional communication and interpersonal skills and fluency in Russian, English, German, and Brazilian Portuguese. Although successful in my hospitality career, I decided to follow my curiosity and passion for technology, and I transitioned to a Customer Success Specialist role at a SAAS startup in 2021. In this position, I combined my previous experience with my tech skills, achieving the best team SLAs for customer support.<br><br>
 
